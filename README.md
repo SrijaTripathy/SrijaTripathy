@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **JAVA, SQL**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.overleaf.com/project/6506841d3a86fcf56188c765](https://www.overleaf.com/project/6506841d3a86fcf56188c765)
 
-- ⚡ Fun fact **I am very Friendly and funny**
+- ⚡ Fun fact **I am very Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
